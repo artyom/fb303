@@ -5,7 +5,7 @@ package fb303
 
 import (
 	"fmt"
-	"git.apache.org/thrift.git/lib/go/thrift"
+	"github.com/artyom/thrift"
 	"math"
 )
 

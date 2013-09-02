@@ -7,7 +7,7 @@ import (
 	"fb303"
 	"flag"
 	"fmt"
-	"git.apache.org/thrift.git/lib/go/thrift"
+	"github.com/artyom/thrift"
 	"math"
 	"net"
 	"net/url"
